@@ -1,3 +1,6 @@
+
+**Human Pose Estimation**
+
 **Data**
 
 1.1 Pose Estimation on COCO The COCO train, validation, and test sets contain more than 200k images and 250k person instances labeled with keypoints. 150k instances of them are publicly available for training and validation. Our models are only trained on all COCO train2017 dataset (includes 57K images and 150K person instances) no extra data involved, ablation are studied on the val2017 set and finally we report the final results on test-dev2017 set to make a fair comparison with the public state-of-the-art results
